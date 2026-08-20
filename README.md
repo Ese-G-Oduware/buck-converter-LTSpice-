@@ -1,6 +1,6 @@
 # 12V to 5V Step Down Buck Converter (LTSpice & KiCad PCB)
 This is an asynchronous buck converter that steps down 12V to 5V, designed and simulates in LTSpice using the LTC4440 (IC) high-side gate driver with a bootstrap circuit.
-![KiCad](schematic/KiCad-Screenshot.png#width=49%) ![LTSpice](schematic/LTSpice-Screenshot.png#width=49%)
+![KiCad](schematic/KiCad-Screenshot.png#width=100%) ![LTSpice](schematic/LTSpice-Screenshot.png#width=49%)
 
 ## Key Specifications
 * **Input Voltage ($V_{in}$):** 12V DC
