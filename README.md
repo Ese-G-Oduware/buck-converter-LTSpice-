@@ -14,6 +14,6 @@ This is an asynchronous buck converter that steps down 12V to 5V, designed and s
 * **High-Side MOSFET Drive:** Utilizes the LTC4440 high-speed driver paired with a bootstrap diode and capacitor ($C_{boot} = 100\text{nF}$) to elevate gate voltage above the floating switching node.
 
 ## Simulation & Results
-![Transient Waveform](waveform/buk_converter.png)
+![Transient Waveform](wwaveform/buck_converter.png)
 * **Startup Phase:** Displays natural LC filter settling overshoot peaking at 6.5V.
 * **Non-Idealities:** Steady-state output settles slightly below theoretical 5V at 4.8V due to MOSFET $R_
