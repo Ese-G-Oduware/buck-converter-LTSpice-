@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1, C2";"C_1206_3216Metric";2;"10uF";;;
+2;"CBOOT1";"C_0805_2012Metric";1;"100nF";;;
+3;"D1";"D_SMA";1;"D_Schottky";;;
+4;"DBOOT1";"D_SOD-123";1;"D_Schottky";;;
+5;"L1";"L_7.3x7.3_H3.5";1;"100uH";;;
+6;"PULSE1, Vin1, Vout1";"TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal";3;"Conn_01x02";;;
+7;"Q1";"TO-252-2";1;"Q_NMOS_DGS";;;
+8;"RBOOT1";"R_0805_2012Metric";1;"2.2";;;
+9;"U2";"MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm";1;"LTC4440EMS8";;;
